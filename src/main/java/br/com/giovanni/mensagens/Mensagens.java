@@ -1,4 +1,4 @@
-package br.com.alura.mensagens;
+package br.com.giovanni.mensagens;
 
 public class Mensagens {
     public void bemVindo(){

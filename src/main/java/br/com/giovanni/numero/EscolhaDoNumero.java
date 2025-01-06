@@ -1,4 +1,4 @@
-package br.com.alura.numero;
+package br.com.giovanni.numero;
 
 import java.util.Scanner;
 

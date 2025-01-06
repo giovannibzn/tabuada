@@ -1,4 +1,4 @@
-package br.com.alura.formula;
+package br.com.giovanni.formula;
 
 public class FormulaDaMultiplicacao {
     public void formula(int numero){

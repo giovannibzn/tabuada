@@ -1,4 +1,4 @@
-package br.com.alura.escolha;
+package br.com.giovanni.escolha;
 
 import java.util.Scanner;
 
